@@ -81,7 +81,7 @@
               	    </war>
               	</target>     
 		      
-		 	<property name="sonar.host.url" value="http://localhost:9000" />
+		 	<property name="sonar.host.url" value="http://35.154.253.137:9000" />
  
  
 	<!-- Define the SonarQube project properties -->
